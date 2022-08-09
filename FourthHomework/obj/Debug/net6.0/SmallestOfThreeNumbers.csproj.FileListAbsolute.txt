@@ -1,0 +1,15 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\SmallestOfThreeNumbers.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\SmallestOfThreeNumbers.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\SmallestOfThreeNumbers.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\ref\SmallestOfThreeNumbers.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\SmallestOfThreeNumbers.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\ref\SmallestOfThreeNumbers.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\SmallestOfThreeNumbers.genruntimeconfig.cache

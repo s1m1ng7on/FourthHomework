@@ -1,0 +1,14 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\ref\AddAndSubtract.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\ref\AddAndSubtract.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.genruntimeconfig.cache

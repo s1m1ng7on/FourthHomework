@@ -1,0 +1,15 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\ref\FourthHomework.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.csproj.AssemblyReference.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\ref\FourthHomework.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\VowelsCount.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\VowelsCount.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\VowelsCount.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\VowelsCount.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\ref\VowelsCount.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\bin\Debug\net6.0\VowelsCount.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\ref\VowelsCount.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\VowelsCount\obj\Debug\net6.0\VowelsCount.genruntimeconfig.cache

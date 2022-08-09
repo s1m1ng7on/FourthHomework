@@ -1,0 +1,15 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\CharactersInRange.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\CharactersInRange.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\CharactersInRange.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\CharactersInRange.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\ref\CharactersInRange.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\bin\Debug\net6.0\CharactersInRange.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.csproj.AssemblyReference.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\ref\CharactersInRange.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\CharactersInRange\obj\Debug\net6.0\CharactersInRange.genruntimeconfig.cache

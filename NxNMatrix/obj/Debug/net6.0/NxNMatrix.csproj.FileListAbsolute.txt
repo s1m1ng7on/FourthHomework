@@ -1,0 +1,14 @@
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\NxNMatrix.exe
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\NxNMatrix.deps.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\NxNMatrix.runtimeconfig.json
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\NxNMatrix.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\ref\NxNMatrix.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\bin\Debug\net6.0\NxNMatrix.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\ref\NxNMatrix.dll
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.pdb
+C:\Users\Simeon Gunev\source\repos\FourthHomework\NxNMatrix\obj\Debug\net6.0\NxNMatrix.genruntimeconfig.cache
